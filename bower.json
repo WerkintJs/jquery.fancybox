@@ -1,13 +1,11 @@
 {
-    "name":         "jquery.navgoco",
+    "name":         "jquery.smint",
     "version":      "0.0.1",
     "dependencies": {
         "requirejs.css":  "*",
         "jquery":         "*"
     },
     "main":         [
-        "navgoco/jquery.navgoco.js",
-        "navgoco/jquery.navgoco.css",
-        "jquery.navgoco.js"
+        "jquery.smint.js",
     ]
 }
