@@ -6,6 +6,6 @@
         "jquery":         "*"
     },
     "main":         [
-        "jquery.smint.js",
+        "jquery.smint.js"
     ]
 }
