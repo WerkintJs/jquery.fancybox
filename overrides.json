@@ -1,5 +1,5 @@
 {
   "ignored": {
-    "fancybox": true
+    "jquery.fancybox": true
   }
 }
