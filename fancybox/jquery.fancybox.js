@@ -9,7 +9,7 @@
  * Copyright 2012 Janis Skarnelis - janis@fancyapps.com
  *
  */
-define(['jquery','css!jquery.fancybox'], function(jQuery){
+define(['jquery'], function(jQuery){
 
 (function ( $,window, document, undefined) {
 	"use strict";
