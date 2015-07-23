@@ -1,11 +1,13 @@
 {
-    "name":         "jquery.smint",
+    "name":         "jquery.fancybox",
     "version":      "0.0.1",
     "dependencies": {
         "requirejs.css":  "*",
         "jquery":         "*"
     },
     "main":         [
-        "jquery.smint.js"
+        "jquery.fancybox.js",
+        "jquery.fancybox.css"
     ]
+
 }
