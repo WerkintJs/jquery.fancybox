@@ -6,8 +6,7 @@
         "jquery":         "*"
     },
     "main":         [
-        "jquery.fancybox.js",
-        "jquery.fancybox.css"
+        "jquery.fancybox.js"
     ]
 
 }
