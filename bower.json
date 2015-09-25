@@ -1,14 +1,12 @@
 {
     "name":         "jquery.fancybox",
-    "version":      "0.0.1",
+    "version":      "2.1.5",
     "dependencies": {
-        "requirejs.css":  "*",
-        "jquery":         "*"
+        "requirejs.css": "*",
+        "jquery":        "*",
+        "fancybox":      "*"
     },
     "main":         [
-        "jquery.fancybox.js",
-        "fancybox/jquery.fancybox.js",
-        "fancybox/jquery.fancybox.css"
+        "jquery.fancybox.js"
     ]
-
 }

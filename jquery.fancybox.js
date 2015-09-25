@@ -1,4 +1,4 @@
 define([
-    'fancybox/jquery.fancybox',
-    'css!fancybox/jquery.fancybox',
+    'source/jquery.fancybox',
+    'css!source/jquery.fancybox',
 ], function(){})
